@@ -1,7 +1,7 @@
 # NLSAM datasets repository
 
 Synthetic datasets used in the NLSAM paper, for which the main repo can be found [here](https://github.com/samuelstjean/nlsam/).
-The phantom is based on an earlier version of [phantomas](https://github.com/ecaruyer/phantomas)
+The phantom is based on an earlier version of [phantomas](https://github.com/ecaruyer/phantomas).
 The masks folders contains everything needed for running a tractometer comparison in the proper folders.
 
 The phantomas b1000 and phantomas b3000 folders contains the raw datasets that were used. The naming convention goes as follow
