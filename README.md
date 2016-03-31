@@ -4,6 +4,11 @@ Synthetic datasets used in the NLSAM paper, for which the main repo can be found
 The phantom is based on an earlier version of [phantomas](https://github.com/ecaruyer/phantomas).
 The masks folders contains everything needed for running a tractometer comparison in the proper folders.
 
+The data can be downloaded as zip files on the  [releases](https://github.com/samuelstjean/nlsam_data/releases) page or cloned locally with 
+~~~
+git clone https://github.com/samuelstjean/nlsam_data.git 
+~~~
+
 The phantomas b1000 and phantomas b3000 folders contains the raw datasets that were used. The naming convention goes as follow
 
 + hardi-scheme contains the bvals/bvecs used by the phantom, which is the same 64 gradient directions for both diffusion weighting.
