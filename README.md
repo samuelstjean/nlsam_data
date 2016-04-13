@@ -1,7 +1,7 @@
 # NLSAM datasets repository
 
 Synthetic datasets used in the NLSAM paper, for which the main repo can be found [here](https://github.com/samuelstjean/nlsam/).
-The phantom is based on an earlier version of [phantomas](https://github.com/ecaruyer/phantomas).
+The synthetic data is based on an earlier version of [phantomas](https://github.com/ecaruyer/phantomas).
 The masks folders contains everything needed for running a tractometer comparison in the proper folders.
 
 The data can be downloaded as zip files on the  [releases](https://github.com/samuelstjean/nlsam_data/releases) page or cloned locally with 
