@@ -23,7 +23,7 @@ Medical Image Analysis, 32(2016), 115–130, 2016.
 Please also credit (if applicable) the *in vivo* acquisition in the acknowledgments section of relevant papers as
 ~~~
 Datasets were provided (in part) by the Centre d'imagerie moléculaire de Sherbrooke (CIMS)
-and the Sherbrooke Connectivity Imaging Lab (SCIL).
+and the Sherbrooke Connectivity Imaging Lab (SCIL), Université de Sherbrooke, Sherbrooke, Québec, Canada.
 ~~~
 
 Synthetic data description
@@ -51,13 +51,13 @@ was used with a gradient strength of 45 mT/m and a 32 channels head coil. The fo
 
 For the high resolution dataset :
 
-- 40 gradient directions at b = 1000 s/mm^2 + 1 b0 image at 1.2 mm voxel size
+- 40 gradient directions at b = 1000 s/mm² + 1 b0 image at 1.2 mm voxel size
 - TR/TE = 18.9 s / 104 ms
 - Total acquisition time : 13 mins
 
 For the standard resolution dataset :
 
-- 64 gradient directions at b = 1000 s/mm^2 + 1 b0 image at 1.8 mm voxel size
+- 64 gradient directions at b = 1000 s/mm² + 1 b0 image at 1.8 mm voxel size
 - TR/TE = 11.1 s / 163 ms
 - Total acquisition time : 12 mins
 
