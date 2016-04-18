@@ -58,7 +58,7 @@ For the high resolution dataset :
 For the standard resolution dataset :
 
 - 64 gradient directions at b = 1000 s/mm² + 1 b0 image at 1.8 mm voxel size
-- TR/TE = 11.1 s / 163 ms
+- TR/TE = 11.1 s / 63 ms
 - Total acquisition time : 12 mins
 
 License
