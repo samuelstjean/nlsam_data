@@ -40,6 +40,18 @@ The naming convention goes as follow
 - coils-(1, 4, 8 or 12) defines the noise distribution as outlined in Eq. 6 of the paper.
 - var-3 means that this dataset has a varying noise profile, which is SNR at the edges and SNR/3 near the center in a linear scale.
 
+The datasets I used were (at both b-1000 and b-3000):
+- Stationary noise
+    - dwis_SNR-10_coils-1.nii.gz
+    - dwis_SNR-10_coils-12.nii.gz
+    - dwis_SNR-20_coils-1.nii.gz
+    - dwis_SNR-20_coils-12.nii.gz
+- Spatially variable noise
+    - dwis_SNR-15_coils-1_var-3.nii.gz
+    - dwis_SNR-15_coils-12_var-3.nii.gz
+    - dwis_SNR-20_coils-1_var-3.nii.gz
+    - dwis_SNR-20_coils-12_var-3.nii.gz
+    
 Note that not all datasets were used in the original paper, but are still provided here for interested users.
 
 *In vivo* data description
